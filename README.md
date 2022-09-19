@@ -25,7 +25,7 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto, é importante ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -42,7 +42,7 @@ $ npm install
 # Crie um arquivo .env na pasta raíz e coloque o seguinte conteúdo dentro dela:
 $ DATABASE_URL="file:../src/database/db.sqlite"
 
-# Execute o arquivo .ENV do Prisma
+# Execute o arquivo .env do Prisma
 $ npx prisma generate
 
 # Execute a aplicação em modo de desenvolvimento
@@ -80,7 +80,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-Feito com ❤️ por Leonardo Oliveira 👋🏽 Entre em contato!
+Feito com ❤️ por Leonardo Oliveira 👋🏽 
 
 [![Gmail Badge](https://img.shields.io/badge/-oleonardo78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oleonardo78@gmail.com)](mailto:oleonardo78@gmail.com)
 
