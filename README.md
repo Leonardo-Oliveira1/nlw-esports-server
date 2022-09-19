@@ -58,12 +58,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Base do [Figma](https://www.figma.com/community/file/1150897317533332617).
 
-- Server
+- <a href="https://github.com/Leonardo-Oliveira1/nlw-esports-server">SERVER</a>
   - [Node.js](https://nodejs.org/en/)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Hoppscotch](https://hoppscotch.io/)
   
-- Web
+- <a href="https://github.com/Leonardo-Oliveira1/nlw-esports-web">WEB</a>
   - [Vite](https://vitejs.dev/)
   - [React](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
@@ -72,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   - [PostCss](https://postcss.org/)
   - [Redux](https://redux.js.org/)
   
-- Mobile
+- <a href="https://github.com/Leonardo-Oliveira1/nlw-esports-mobile">MOBILE</a>
   - [Expo](https://expo.io/)
   - [React Native](https://reactnative.dev/)
   - [TypeScript](https://www.typescriptlang.org/)
