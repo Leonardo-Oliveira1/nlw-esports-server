@@ -82,7 +82,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Leonardo Oliveira 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-oliveira1/)](https://www.linkedin.com/in/leonardo-oliveira1/) 
 [![Gmail Badge](https://img.shields.io/badge/-oleonardo78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oleonardo78@gmail.com)](mailto:oleonardo78@gmail.com)
 
 <h4 align="center"> 
