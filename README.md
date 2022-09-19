@@ -60,6 +60,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Server
   - [Node.js](https://nodejs.org/en/)
+  - [TypeScript](https://www.typescriptlang.org/)
   - [Hoppscotch](https://hoppscotch.io/)
   
 - Web
