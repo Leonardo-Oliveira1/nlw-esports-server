@@ -42,10 +42,10 @@ $ npm install
 # Crie um arquivo .env na pasta raíz e coloque o seguinte conteúdo dentro dela:
 $ DATABASE_URL="file:../src/database/db.sqlite"
 
-# Execute o arquivo .env do Prisma
+# Gere o cliente do banco de dados do Prisma
 $ npx prisma generate
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação
 $ node build/server.js
 
 # O servidor iniciará na porta '3333' - acesse <http://localhost:3333>
